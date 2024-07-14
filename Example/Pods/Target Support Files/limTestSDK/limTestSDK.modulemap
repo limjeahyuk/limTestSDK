@@ -1,0 +1,6 @@
+framework module limTestSDK {
+  umbrella header "limTestSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

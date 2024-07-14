@@ -1,0 +1,16 @@
+PODS:
+  - limTestSDK (0.1.0)
+
+DEPENDENCIES:
+  - limTestSDK (from `../`)
+
+EXTERNAL SOURCES:
+  limTestSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  limTestSDK: b4cc96fb9a7692f81224634577680c5b4a3d7b58
+
+PODFILE CHECKSUM: 4fe7a19e56a37f593ec76c702c5e6ab8955939c1
+
+COCOAPODS: 1.15.2
